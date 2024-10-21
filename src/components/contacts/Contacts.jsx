@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./Contacts.scss";
+import './Contacts.scss';
 
 export default function Contact() {
   const [message, setMessage] = useState(false);

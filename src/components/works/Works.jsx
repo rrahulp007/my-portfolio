@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./Works.scss";
+import './Works.scss';
 
 export default function Works() {
   const [currentSlide,setCurrentSlide] = useState(0);

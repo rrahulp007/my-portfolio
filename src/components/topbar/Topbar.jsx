@@ -1,4 +1,4 @@
-import "./Topbar.scss";
+import './Topbar.scss';
 
 export default function Topbar({ menuOpen, setMenuOpen }) {
   return (

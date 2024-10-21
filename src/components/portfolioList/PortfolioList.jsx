@@ -1,5 +1,5 @@
 import React from 'react'
- import "./portfolioList.scss";
+ import './PortfolioList.scss';
 
 export default function PortfolioList({id, title, active,setSelected}) {
 
