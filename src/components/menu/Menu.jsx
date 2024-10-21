@@ -1,4 +1,4 @@
-import './menu.scss';
+import './Menu.scss';
 
 export default function Menu({ menuOpen, setMenuOpen }) {
   return (
